@@ -9,7 +9,7 @@
 
 ### Uso
 
-Para hacerlo funcionar hay que renonbrar el archivo **pelicula_provider.dart.dist** por **pelicula_provider.dart** .
+Para hacerlo funcionar hay que renombrar el archivo **pelicula_provider.dart.dist** por **pelicula_provider.dart** .
 Dentro del archivo hay que colocar tu API KEY de The Movie Database en la línea:  `String _apikey = "API_KEY";`
 
 ### The Movie Database API
