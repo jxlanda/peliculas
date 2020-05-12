@@ -13,9 +13,8 @@ Para hacerlo funcionar hay que renombrar el archivo **pelicula_provider.dart.dis
 Dentro del archivo hay que colocar tu API KEY de The Movie Database en la línea:  `String _apikey = "API_KEY";`
 
 ### The Movie Database API
-- Documentación: https://developers.themoviedb.org/3/getting-started/introduction
 
- <img src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_1-5bdc75aaebeb75dc7ae79426ddd9be3b2be1e342510f8202baf6bffa71d7f5c4.svg" alt="drawing" width="200"/>
+- Documentación: https://developers.themoviedb.org/3/getting-started/introduction
 
 ### Imagenes
 
